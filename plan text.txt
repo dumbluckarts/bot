@@ -1,0 +1,11 @@
+Power up progression within levels
+-higher legs
+-secondary boost jump
+-high powered leg jumps
+
+
+-Lives are based on leg length
+(minimum leg length means one life)
+-legs not extended means vulnerability to attacks
+
+feet turn into wheels when extending
